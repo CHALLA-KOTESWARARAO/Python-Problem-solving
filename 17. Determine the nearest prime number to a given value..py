@@ -1,4 +1,4 @@
-# # #17. Determine the nearest prime number to a given value
+#17. Determine the nearest prime number to a given value
 
 n=13
 a=[]
